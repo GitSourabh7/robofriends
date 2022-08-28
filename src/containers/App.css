@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Family Tree Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Family Tree Regular'), url('../containers/font/family-tree.woff') format('woff');
+    }
+
+h1 {
+    font-family: "Family Tree Regular";
+    font-size: 4rem;
+    font-weight: 900;
+    color: rgb(26, 81, 15);
+}
